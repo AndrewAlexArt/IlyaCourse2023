@@ -1,0 +1,1 @@
+public class GreenBall : Ball { }
